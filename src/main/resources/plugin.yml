@@ -1,0 +1,8 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: ${project.groupId}.Plugin
+api-version: 1.15
+
+commands:
+  gacha:
+    description: ｶﾞﾁｬｶﾞﾁｬ
